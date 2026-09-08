@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_number": "DEMO-1042",
+    "source_ref": "synthetic-invoice-1042-page-1",
+    "currency": "USD",
+    "items": [
+      {"description": "Sample notebooks", "quantity": 3, "unit_price": "19.90", "line_total": "59.70"},
+      {"description": "Sample pens", "quantity": 2, "unit_price": "4.25", "line_total": "8.50"}
+    ],
+    "subtotal": "68.20",
+    "tax": "5.46",
+    "total": "73.66"
+  }
+]
